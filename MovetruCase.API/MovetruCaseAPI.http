@@ -1,0 +1,6 @@
+@MovetruCaseAPI_HostAddress = http://localhost:5115
+
+GET {{MovetruCaseAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
